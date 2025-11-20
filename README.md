@@ -121,16 +121,27 @@ Solo architected and deployed **4 production full-stack applications** serving r
 
 ---
 
-## 💼 Background
+## ⚙️ Engineering Career
 
-**U.S. Air Force** (2011–2023)  
-Served on Active Duty while self-teaching modern web development and shipping production code nights/weekends.
+**Founder & Full-Stack Engineer (2018–Present)**  
+- Solo-architected four production TypeScript monorepos (Factiii, GreaseMoto, Link3D, TapTrack) while active duty; shipped 5.4M+ verified LOC with ~5.0M personally authored across web, mobile, and backend services.  
+- Designed and operated real-time + offline-first systems: Cesium 3D globe renderer, WebRTC sync engine, native NFC platforms, Gusto payroll automation, USPS/Stripe/GPT integrations, 73+ integration tests, and Docker/Turborepo CI.  
+- Partnered directly with customers: scoped features, modeled 150+ Prisma entities, built tRPC APIs plus React/React Native clients, and ran uptime/on-call solo (infrastructure, observability, incident response).  
 
-**Self-Taught Developer** (2018–Present)  
-Learned TypeScript, React, Node.js, and full-stack architecture through building real products for real users.
+## ✈️ Air Force Career — Electronic Warfare Officer, RC-135S Cobra Ball (2011–2023)
 
-**Full-Stack Generalist**  
-Comfortable across the entire stack: database design, API architecture, UI/UX implementation, DevOps, and mobile development.
+- Instructor → Evaluator → Chief Evaluator, Wing Innovation Director, Special Projects DO, and intel flight commander; led 55 Airmen, ran standards for 24 EWOs, and owned software for intelligence products across multiple agencies.  
+- Deployed 194+ days (730+ total) across five FOLs, flew 1,000+ hours/20 HHQ missions, and netted seven NSA priority-1 collects powering the squadron’s 12th Air Force ISR Unit of the Year win and O’Malley “#1 Recon Crew” honors.  
+- Directed Space Force & Starlink modernization: ran first Cobra Ball depot test, authored Baseline 6/6.1 tactics, coordinated GL exercises with SpaceX, DARPA, Pentagon, and HMX-1, and delivered the first $160M CB aircraft upgrade on time despite COVID.  
+- Rewrote three Cobra Ball checklists (57 upgrades), eliminated 150 pages from tactics bags, removed redundant intel/L3 requirements (saving $50K and 20% timeline), and restored degraded collection systems in 15 minutes to keep $375M mission packages online.  
+- Built the ops training blueprint: sole EWO scheduler for 16 FMT events, designed the OGT syllabus covering five crew positions/two squadrons/three ISR requirements, and secured dual-MCC training that cut qualification time in half.  
+- Hardened the fleet’s digital edge: regulated 3,000+ SCIF-approved iPads/EFBs (more devices than the DoD-issued BlackBerry fleet), fixed security policy across three COCOMs, built secure signage servers, enabled POTUS comms via Starlink gateway, and ran Global Lightning exercises validating next-gen SATCOM.  
+- Recognition: 10 quarterly/annual awards (OG-level CGO, EWO, FE, Ops Support), Wing Aircrew Safety Award of Distinction, and multiple SecDef/ODNI briefs for national-level capability funding.  
+
+## 🎓 Education
+
+- **M.A., Economics** – University of Oklahoma (2017)
+- **B.S., Physics** – University of Texas at Austin (2011)
 
 ---
 
