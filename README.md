@@ -9,15 +9,31 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan_Snyder-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-snyder-b37b0598/)
 [![Email](https://img.shields.io/badge/Email-jsnyder10%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsnyder10@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-jsnyder10-181717?style=for-the-badge&logo=github)](https://github.com/jsnyder10)
-[![DeepSource Profile](https://deepsource.com/u/jsnyder10/badge/dark.svg)](https://deepsource.com/u/jsnyder10) <!-- Live once first analysis completes -->
+[![DeepSource](https://app.deepsource.com/gh/LINK3D-io/tap-track.svg/?label=resolved+issues&show_trend=true&token=lyTIvXtPjYLAZbFuxMLkeUXd)](https://app.deepsource.com/gh/LINK3D-io/tap-track/)
 
 </div>
 
 ---
 
-## ✅ Code Verification
+## ✅ Proof of Execution & Authenticity
 
-All repositories are verified via **[DeepSource](https://deepsource.com/u/jsnyder10)** to confirm code ownership and contribution authenticity.
+**DeepSource-verified repos (ownership + activity audit trail):**
+
+<div align="center">
+<a href="https://app.deepsource.com/gh/jsnyder10/Chop-Shop/"><img src="https://app.deepsource.com/gh/jsnyder10/Chop-Shop.svg/?label=resolved+issues&show_trend=true&token=mvr1du3jKII89y4f_mWbSQpD" alt="DeepSource Chop-Shop badge" /></a>
+<a href="https://app.deepsource.com/gh/jsnyder10/factiii/"><img src="https://app.deepsource.com/gh/jsnyder10/factiii.svg/?label=resolved+issues&show_trend=true&token=UsPXnQkGR4pxdQtfIYTjEcvm" alt="DeepSource Factiii badge" /></a>
+<a href="https://app.deepsource.com/gh/jsnyder10/factiOLD/"><img src="https://app.deepsource.com/gh/jsnyder10/factiOLD.svg/?label=resolved+issues&show_trend=true&token=1_uq2TKeZu9Y3dh6DLxVF5Rs" alt="DeepSource factiOLD badge" /></a>
+</div>
+
+**Signal boosters employers care about:**
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jsnyder10&theme=react&hide_border=true&fire=FF6B6B&ring=FFD93D" alt="GitHub streak stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=jsnyder10&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsnyder10&layout=compact&theme=react&hide_border=true&langs_count=10" alt="Top languages" />
+<img src="https://github-profile-trophy.vercel.app/?username=jsnyder10&theme=react&no-frame=true&margin-w=15" alt="GitHub trophy wall" />
+<a href="https://wakatime.com/@8602e1af-d311-49d2-86db-d5f65d7773c2"><img src="https://wakatime.com/badge/user/8602e1af-d311-49d2-86db-d5f65d7773c2.svg" alt="Wakatime tracker" /></a>
+</div>
 
 
 ---
