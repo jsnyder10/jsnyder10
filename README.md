@@ -20,12 +20,16 @@
 
 <div align="center">
   <a href="https://app.deepsource.com/gh/jsnyder10/Chop-Shop/" style="display:inline-block;text-decoration:none;margin:0 18px;">
-    <img src="https://app.deepsource.com/gh/jsnyder10/Chop-Shop.svg/?label=resolved+issues&show_trend=true&token=mvr1du3jKII89y4f_mWbSQpD" alt="DeepSource Chop-Shop badge" />
-    <div style="margin-top:6px;font-weight:600;color:#0f172a;">greasemoto.com</div>
+    <div style="display:flex;flex-direction:column;align-items:center;padding:16px 20px;border-radius:16px;background:#f8fafc;border:1px solid #e2e8f0;min-width:240px;box-shadow:0 12px 24px rgba(15,23,42,0.08);font-family:'Inter','Segoe UI',system-ui,-apple-system,sans-serif;">
+      <div style="font-size:15px;font-weight:600;letter-spacing:0.04em;color:#0f172a;margin-bottom:10px;text-transform:uppercase;">greasemoto.com</div>
+      <img src="https://app.deepsource.com/gh/jsnyder10/Chop-Shop.svg/?label=resolved+issues&show_trend=true&token=mvr1du3jKII89y4f_mWbSQpD" alt="DeepSource Chop-Shop badge" />
+    </div>
   </a>
   <a href="https://app.deepsource.com/gh/jsnyder10/factiii/" style="display:inline-block;text-decoration:none;margin:0 18px;">
-    <img src="https://app.deepsource.com/gh/jsnyder10/factiii.svg/?label=resolved+issues&show_trend=true&token=UsPXnQkGR4pxdQtfIYTjEcvm" alt="DeepSource Factiii badge" />
-    <div style="margin-top:6px;font-weight:600;color:#0f172a;">factiii.com</div>
+    <div style="display:flex;flex-direction:column;align-items:center;padding:16px 20px;border-radius:16px;background:#f8fafc;border:1px solid #e2e8f0;min-width:240px;box-shadow:0 12px 24px rgba(15,23,42,0.08);font-family:'Inter','Segoe UI',system-ui,-apple-system,sans-serif;">
+      <div style="font-size:15px;font-weight:600;letter-spacing:0.04em;color:#0f172a;margin-bottom:10px;text-transform:uppercase;">factiii.com</div>
+      <img src="https://app.deepsource.com/gh/jsnyder10/factiii.svg/?label=resolved+issues&show_trend=true&token=UsPXnQkGR4pxdQtfIYTjEcvm" alt="DeepSource Factiii badge" />
+    </div>
   </a>
 </div>
 
