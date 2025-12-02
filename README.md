@@ -19,17 +19,13 @@
 **DeepSource-verified repos (ownership + activity audit trail):**
 
 <div align="center">
-  <a href="https://app.deepsource.com/gh/jsnyder10/Chop-Shop/" style="display:inline-block;text-decoration:none;margin:0 18px;">
-    <div style="display:flex;flex-direction:column;align-items:center;padding:16px 20px;border-radius:16px;background:#f8fafc;border:1px solid #e2e8f0;min-width:240px;box-shadow:0 12px 24px rgba(15,23,42,0.08);font-family:'Inter','Segoe UI',system-ui,-apple-system,sans-serif;">
-      <div style="font-size:15px;font-weight:600;letter-spacing:0.04em;color:#0f172a;margin-bottom:10px;text-transform:uppercase;">greasemoto.com</div>
-      <img src="https://app.deepsource.com/gh/jsnyder10/Chop-Shop.svg/?label=resolved+issues&show_trend=true&token=mvr1du3jKII89y4f_mWbSQpD" alt="DeepSource Chop-Shop badge" />
-    </div>
+  <a href="https://app.deepsource.com/gh/jsnyder10/Chop-Shop/" style="display:inline-flex;flex-direction:column;align-items:center;text-decoration:none;margin:0 18px;padding:16px 20px;border-radius:16px;background:#f8fafc;border:1px solid #e2e8f0;min-width:240px;box-shadow:0 12px 24px rgba(15,23,42,0.08);font-family:'Inter','Segoe UI',system-ui,-apple-system,sans-serif;gap:10px;">
+    <div style="font-size:15px;font-weight:600;letter-spacing:0.04em;color:#0f172a;text-transform:uppercase;">greasemoto.com</div>
+    <img src="https://app.deepsource.com/gh/jsnyder10/Chop-Shop.svg/?label=resolved+issues&show_trend=true&token=mvr1du3jKII89y4f_mWbSQpD" alt="DeepSource Chop-Shop badge" />
   </a>
-  <a href="https://app.deepsource.com/gh/jsnyder10/factiii/" style="display:inline-block;text-decoration:none;margin:0 18px;">
-    <div style="display:flex;flex-direction:column;align-items:center;padding:16px 20px;border-radius:16px;background:#f8fafc;border:1px solid #e2e8f0;min-width:240px;box-shadow:0 12px 24px rgba(15,23,42,0.08);font-family:'Inter','Segoe UI',system-ui,-apple-system,sans-serif;">
-      <div style="font-size:15px;font-weight:600;letter-spacing:0.04em;color:#0f172a;margin-bottom:10px;text-transform:uppercase;">factiii.com</div>
-      <img src="https://app.deepsource.com/gh/jsnyder10/factiii.svg/?label=resolved+issues&show_trend=true&token=UsPXnQkGR4pxdQtfIYTjEcvm" alt="DeepSource Factiii badge" />
-    </div>
+  <a href="https://app.deepsource.com/gh/jsnyder10/factiii/" style="display:inline-flex;flex-direction:column;align-items:center;text-decoration:none;margin:0 18px;padding:16px 20px;border-radius:16px;background:#f8fafc;border:1px solid #e2e8f0;min-width:240px;box-shadow:0 12px 24px rgba(15,23,42,0.08);font-family:'Inter','Segoe UI',system-ui,-apple-system,sans-serif;gap:10px;">
+    <div style="font-size:15px;font-weight:600;letter-spacing:0.04em;color:#0f172a;text-transform:uppercase;">factiii.com</div>
+    <img src="https://app.deepsource.com/gh/jsnyder10/factiii.svg/?label=resolved+issues&show_trend=true&token=UsPXnQkGR4pxdQtfIYTjEcvm" alt="DeepSource Factiii badge" />
   </a>
 </div>
 
@@ -40,7 +36,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=jsnyder10&show_icons=true&theme=react&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsnyder10&layout=compact&theme=react&hide_border=true&langs_count=10" alt="Top languages" />
 <img src="https://github-profile-trophy.vercel.app/?username=jsnyder10&theme=react&no-frame=true&margin-w=15" alt="GitHub trophy wall" />
-<a href="https://wakatime.com/@8602e1af-d311-49d2-86db-d5f65d7773c2"><img src="https://wakatime.com/badge/user/8602e1af-d311-49d2-86db-d5f65d7773c2.svg" alt="Wakatime tracker" /></a>
+<div style="display:flex;flex-direction:column;align-items:center;gap:6px;">
+  <a href="https://wakatime.com/@8602e1af-d311-49d2-86db-d5f65d7773c2"><img src="https://wakatime.com/badge/user/8602e1af-d311-49d2-86db-d5f65d7773c2.svg" alt="Wakatime tracker" /></a>
+  <div style="font-size:13px;color:#475569;">Tracking started Nov 14, 2025 (new profile)</div>
+</div>
 </div>
 
 
