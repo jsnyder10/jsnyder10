@@ -19,8 +19,14 @@
 **DeepSource-verified repos (ownership + activity audit trail):**
 
 <div align="center">
-<a href="https://app.deepsource.com/gh/jsnyder10/Chop-Shop/"><img src="https://app.deepsource.com/gh/jsnyder10/Chop-Shop.svg/?label=resolved+issues&show_trend=true&token=mvr1du3jKII89y4f_mWbSQpD" alt="DeepSource Chop-Shop badge" />greasemoto.com</a>
-<a href="https://app.deepsource.com/gh/jsnyder10/factiii/"><img src="https://app.deepsource.com/gh/jsnyder10/factiii.svg/?label=resolved+issues&show_trend=true&token=UsPXnQkGR4pxdQtfIYTjEcvm" alt="DeepSource Factiii badge" /><factiii.com/a>
+  <a href="https://app.deepsource.com/gh/jsnyder10/Chop-Shop/" style="display:inline-block;text-decoration:none;margin:0 18px;">
+    <img src="https://app.deepsource.com/gh/jsnyder10/Chop-Shop.svg/?label=resolved+issues&show_trend=true&token=mvr1du3jKII89y4f_mWbSQpD" alt="DeepSource Chop-Shop badge" />
+    <div style="margin-top:6px;font-weight:600;color:#0f172a;">greasemoto.com</div>
+  </a>
+  <a href="https://app.deepsource.com/gh/jsnyder10/factiii/" style="display:inline-block;text-decoration:none;margin:0 18px;">
+    <img src="https://app.deepsource.com/gh/jsnyder10/factiii.svg/?label=resolved+issues&show_trend=true&token=UsPXnQkGR4pxdQtfIYTjEcvm" alt="DeepSource Factiii badge" />
+    <div style="margin-top:6px;font-weight:600;color:#0f172a;">factiii.com</div>
+  </a>
 </div>
 
 **Signal boosters employers care about:**
