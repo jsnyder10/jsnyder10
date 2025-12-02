@@ -9,20 +9,18 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jonathan_Snyder-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-snyder-b37b0598/)
 [![Email](https://img.shields.io/badge/Email-jsnyder10%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsnyder10@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-jsnyder10-181717?style=for-the-badge&logo=github)](https://github.com/jsnyder10)
-[![DeepSource](https://app.deepsource.com/gh/LINK3D-io/tap-track.svg/?label=resolved+issues&show_trend=true&token=lyTIvXtPjYLAZbFuxMLkeUXd)](https://app.deepsource.com/gh/LINK3D-io/tap-track/)
 
 </div>
 
 ---
 
-## ✅ Proof of Execution & Authenticity
+## ✅ Verified Work
 
 **DeepSource-verified repos (ownership + activity audit trail):**
 
 <div align="center">
-<a href="https://app.deepsource.com/gh/jsnyder10/Chop-Shop/"><img src="https://app.deepsource.com/gh/jsnyder10/Chop-Shop.svg/?label=resolved+issues&show_trend=true&token=mvr1du3jKII89y4f_mWbSQpD" alt="DeepSource Chop-Shop badge" /></a>
-<a href="https://app.deepsource.com/gh/jsnyder10/factiii/"><img src="https://app.deepsource.com/gh/jsnyder10/factiii.svg/?label=resolved+issues&show_trend=true&token=UsPXnQkGR4pxdQtfIYTjEcvm" alt="DeepSource Factiii badge" /></a>
-<a href="https://app.deepsource.com/gh/jsnyder10/factiOLD/"><img src="https://app.deepsource.com/gh/jsnyder10/factiOLD.svg/?label=resolved+issues&show_trend=true&token=1_uq2TKeZu9Y3dh6DLxVF5Rs" alt="DeepSource factiOLD badge" /></a>
+<a href="https://app.deepsource.com/gh/jsnyder10/Chop-Shop/"><img src="https://app.deepsource.com/gh/jsnyder10/Chop-Shop.svg/?label=resolved+issues&show_trend=true&token=mvr1du3jKII89y4f_mWbSQpD" alt="DeepSource Chop-Shop badge" />greasemoto.com</a>
+<a href="https://app.deepsource.com/gh/jsnyder10/factiii/"><img src="https://app.deepsource.com/gh/jsnyder10/factiii.svg/?label=resolved+issues&show_trend=true&token=UsPXnQkGR4pxdQtfIYTjEcvm" alt="DeepSource Factiii badge" /><factiii.com/a>
 </div>
 
 **Signal boosters employers care about:**
