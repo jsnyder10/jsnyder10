@@ -48,12 +48,9 @@ All four are end-to-end type-safe TypeScript monorepos: tRPC + Zod contracts sha
 
 **Electronic Warfare Officer, RC-135S Cobra Ball — U.S. Air Force, 2011–2023**
 
-- Instructor → Evaluator → Chief Evaluator. Ran standards for 24 EWOs, led 55 Airmen as a flight commander, and served as Wing Innovation Director.
-- 1,000+ flight hours and 730+ days deployed across five forward locations. Seven NSA priority-1 collections, which fed the squadron's 12th Air Force ISR Unit of the Year award.
-- Led the jet's space and SATCOM modernization: ran the first Cobra Ball depot test, wrote Baseline 6/6.1 tactics, and coordinated Global Lightning exercises with SpaceX, DARPA, the Pentagon and HMX-1 to validate next-gen SATCOM, and enabled POTUS comms through a Starlink gateway.
+- Led the jet's SATCOM modernization: Starlink integration and next-gen SATCOM tests run with SpaceX, DARPA and the Pentagon.
 - Delivered the first $160M Cobra Ball aircraft upgrade on schedule through COVID.
-- Rewrote three aircrew checklists (57 changes), cut 150 pages from the tactics bag, and saved $50K and 20% of the mission timeline by removing redundant requirements. Restored degraded collection systems in 15 minutes to keep a $375M mission on track.
-- Regulated 3,000+ SCIF-approved iPads/EFBs, fixed security policy across three combatant commands, and owned the software behind intelligence products used by multiple agencies.
+- 1,000+ flight hours tracking missiles in flight; rose to Chief Evaluator and led 55 Airmen.
 
 ## 🧰 Stack
 
