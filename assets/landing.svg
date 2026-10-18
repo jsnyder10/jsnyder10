@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 160" width="1000" height="160" role="img" aria-label="A booster fires its landing burn and touches down on a platform at sea.">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#03040b"/>
+      <stop offset="1" stop-color="#101a3d"/>
+    </linearGradient>
+    <linearGradient id="burn" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fff6d6"/>
+      <stop offset="0.4" stop-color="#ffb347"/>
+      <stop offset="1" stop-color="#ff4d1a" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .wave { animation: drift 6s linear infinite; }
+      @keyframes drift { to { transform: translateX(-80px); } }
+      .flicker { transform-origin: 0 0; animation: flicker .1s ease-in-out infinite alternate; }
+      @keyframes flicker { from { transform: scaleY(.75); } to { transform: scaleY(1.2); } }
+      .label { font: 500 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; letter-spacing: 2px; fill: #6b7aa6; }
+    </style>
+  </defs>
+
+  <rect width="1000" height="160" fill="url(#sky)"/>
+  <circle cx="90" cy="30" r="1" fill="#fff" opacity=".6"/><circle cx="300" cy="18" r="1.2" fill="#fff" opacity=".5"/>
+  <circle cx="620" cy="26" r="0.9" fill="#fff" opacity=".7"/><circle cx="880" cy="40" r="1.1" fill="#fff" opacity=".5"/>
+
+  <!-- sea -->
+  <rect y="132" width="1000" height="28" fill="#060a1a"/>
+  <g class="wave" stroke="#2b3d7a" stroke-width="1.2" fill="none" opacity=".7">
+    <path d="M0 140 q20 -4 40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0"/>
+    <path d="M20 150 q20 -3 40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0 t40 0"/>
+  </g>
+
+  <!-- landing platform -->
+  <rect x="440" y="124" width="120" height="8" rx="1" fill="#2a3358"/>
+  <circle cx="500" cy="128" r="9" fill="none" stroke="#ffcf5a" stroke-width="1.5" opacity=".8"/>
+
+  <!-- booster: base of the engine is at y=0 -->
+  <g>
+    <g>
+      <rect x="-6" y="-70" width="12" height="70" rx="2" fill="#eef2ff"/>
+      <rect x="-6" y="-58" width="12" height="5" fill="#1c2340"/>
+      <path d="M-6 -70 L-12 -76 M6 -70 L12 -76" stroke="#c9d3f5" stroke-width="2"/>
+      <!-- legs fold out on the way down -->
+      <path d="M-6 -6 L-16 4 M6 -6 L16 4" stroke="#c9d3f5" stroke-width="2" stroke-linecap="round" opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.4;0.5;1" dur="6s" repeatCount="indefinite"/>
+      </path>
+      <g opacity="1">
+        <g class="flicker"><path d="M-5 0 L0 34 L5 0 Z" fill="url(#burn)"/></g>
+        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.62;0.66;1" dur="6s" repeatCount="indefinite"/>
+      </g>
+    </g>
+    <animateTransform attributeName="transform" type="translate" values="500 -90; 500 124; 500 124"
+                      keyTimes="0;0.65;1" calcMode="spline" keySplines="0.2 0.6 0.35 1; 0 0 1 1" dur="6s" repeatCount="indefinite"/>
+  </g>
+
+  <text x="40" y="112" class="label">STATUS: NOMINAL</text>
+  <text x="960" y="112" class="label" text-anchor="end">TOUCHDOWN</text>
+</svg>
