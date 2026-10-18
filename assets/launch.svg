@@ -85,6 +85,6 @@
 
   <!-- name plate -->
   <text x="56" y="128" class="name">JON SNYDER</text>
-  <text x="58" y="164" class="role">FULL-STACK ENGINEER  //  FORMER USAF ELECTRONIC WARFARE OFFICER</text>
+  <text x="58" y="164" class="role">FULL-STACK ENGINEER  //  FOUNDER, FACTIII</text>
   <text x="58" y="198" class="tele">&gt; web · mobile · backend · infra — designed, built and run end to end<tspan class="cursor"> _</tspan></text>
 </svg>

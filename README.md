@@ -11,14 +11,13 @@
 ```text
 > whoami
   Full-stack engineer. Founder of Factiii.
-  12 years as a USAF Electronic Warfare Officer on the RC-135S Cobra Ball,
-  the aircraft that tracks ballistic missiles in flight.
+  U.S. Air Force officer. Physics nerd.
   B.S. Physics (UT Austin) · M.A. Economics (Oklahoma)
 ```
 
 ## 🛰️ Systems in Production
 
-I founded and lead these products, owning the architecture, the code and the on-call:
+Products I founded and lead, from architecture to on-call:
 
 | System | What it does | Interesting parts |
 |---|---|---|
@@ -44,14 +43,6 @@ All four are end-to-end type-safe TypeScript monorepos: tRPC + Zod contracts sha
 - **Money and logistics.** Stripe subscriptions, refunds and invoices; USPS OAuth, address verification and ZIP+4; Gusto payroll over OAuth 2.0.
 - **Ops.** Docker multi-stage builds, Nginx + Certbot, AWS, CI/CD for web, server and mobile, OTA updates for the mobile apps, integration tests with Jest + Supertest.
 
-## ✈️ Before Software: Cobra Ball
-
-**Electronic Warfare Officer, RC-135S Cobra Ball — U.S. Air Force, 2011–2023**
-
-- Led the jet's SATCOM modernization: Starlink integration and next-gen SATCOM tests run with SpaceX, DARPA and the Pentagon.
-- Delivered the first $160M Cobra Ball aircraft upgrade on schedule through COVID.
-- 1,000+ flight hours tracking missiles in flight; rose to Chief Evaluator and led 55 Airmen.
-
 ## 🧰 Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -72,7 +63,7 @@ All four are end-to-end type-safe TypeScript monorepos: tRPC + Zod contracts sha
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
-## 📡 Comms
+## 📡 Find Me
 
 [LinkedIn](https://www.linkedin.com/in/jonathan-snyder-b37b0598/) · [Factiii](https://factiii.com/user/jon)
 
