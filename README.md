@@ -77,6 +77,6 @@ All four are end-to-end type-safe TypeScript monorepos: tRPC + Zod contracts sha
 
 ## 📡 Comms
 
-[LinkedIn](https://www.linkedin.com/in/jonathan-snyder-b37b0598/) · [Factiii](https://factiii.com/user/jon) · [jsnyder10@gmail.com](mailto:jsnyder10@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/jonathan-snyder-b37b0598/) · [Factiii](https://factiii.com/user/jon)
 
 <img src="assets/landing.svg" alt="A booster lands on a platform at sea" width="100%" />
